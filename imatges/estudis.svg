@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="320" viewBox="0 0 520 320">
-  <rect width="520" height="320" fill="#f6f9ff"/>
-  <path d="M90 250 L260 75 L430 250" fill="none" stroke="#3d6de6" stroke-width="10" stroke-linecap="round"/>
-  <rect x="120" y="140" width="80" height="110" rx="10" fill="#9ec0ff"/>
-  <rect x="220" y="120" width="80" height="130" rx="10" fill="#6ea2ff"/>
-  <rect x="320" y="100" width="80" height="150" rx="10" fill="#4a7ae7"/>
-  <line x1="95" y1="250" x2="425" y2="250" stroke="#2c4ea3" stroke-width="8"/>
-  <text x="260" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#1f2a44">Estudis</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300">
+  <rect width="500" height="300" fill="#f5f7ff"/>
+  <rect x="80" y="80" width="340" height="150" rx="12" fill="#a9c5ff"/>
+  <rect x="110" y="110" width="70" height="90" fill="#4b7ae6"/>
+  <rect x="200" y="110" width="70" height="90" fill="#6fa3ff"/>
+  <rect x="290" y="110" width="70" height="90" fill="#3e5ec8"/>
+  <path d="M100 70 L250 20 L400 70" fill="none" stroke="#2d4ea3" stroke-width="8"/>
+  <text x="250" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#1d2c4d">Estudis</text>
 </svg>
